@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "OVERDRIVE: Swarm Arena",
+    "slug": "overdrive-swarm-arena",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.antigravity.overdriveswarmarena"
+    }
+  }
+}
